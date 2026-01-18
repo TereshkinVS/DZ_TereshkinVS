@@ -1,4 +1,2 @@
-def greet(name):
-    return f"Привет, {name}!"
-
-print(greet("Мир"))
+def add(a, b):
+    return a + b
